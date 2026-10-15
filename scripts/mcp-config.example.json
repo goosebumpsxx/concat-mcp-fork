@@ -1,0 +1,1 @@
+{"servers": [{"name": "concat", "command": "python", "args": ["/ABSOLUTE/PATH/TO/concat-mcp-fork/scripts/concat_mcp.py"], "env": {"CONCAT_HOST": "127.0.0.1", "CONCAT_PORT": "7420", "CONCAT_API_TOKEN": "SET_LOCALLY_IN_YOUR_MCP_CLIENT"}}]}

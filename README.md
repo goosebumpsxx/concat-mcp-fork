@@ -98,6 +98,8 @@ Concat is in **beta**: it works, and it still has edges. [Say so](https://github
 
 **[Code signing policy](CODE_SIGNING.md)**: who signs the Windows builds, and what Concat sends over the network (nothing you did not ask for).
 
+- [MCP bridge](docs/MCP.md) — connect AI agents to the local Concat API over stdio.
+
 ## How to Contribute
 
 > [!IMPORTANT]
